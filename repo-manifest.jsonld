@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pypa/hatch-code/commit/cebff56f5d91e48ce709f7ba01caf26ccc2341c2",
       "git:hexsha": "cebff56f5d91e48ce709f7ba01caf26ccc2341c2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T05:21:44.756787+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pypa/hatch-code/commit/cc37db9b201b553bff8815c8b1a1fa23ee51f2c8",
